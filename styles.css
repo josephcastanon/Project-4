@@ -1,0 +1,19 @@
+body {
+    background-color: #F99F00;
+    }
+
+img {
+    width: 1100px;;
+    height: auto;
+    position: absolute;
+    }
+
+    .cat1 {
+      bottom: 0;
+      right: 0;
+    }
+
+    .cat2 {
+      bottom: 0;
+      left: 0;
+    }
